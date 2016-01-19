@@ -16,7 +16,7 @@ promptinit
 prompt adam2
 
 #Aliases
-alias l='ls -l'
+alias l='ls -lG'
 alias ga='git add'
 alias gc='git commit -am'
 alias gp='git push'
